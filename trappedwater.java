@@ -1,5 +1,5 @@
 import java.util.*;
-public class ArraysCC{
+public class trappedwater{
     public static int trappedRainwater(int height[]){
         int n = height.length;
         //calclate left max boundary-array
