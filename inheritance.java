@@ -4,7 +4,7 @@ public class inheritance {
         // shark.eat();
         Dog dobby = new Dog();
         dobby.eat();
-        dobby.breathes();
+        dobby.breathes(); 
         dobby.legs = 4;
         System.out.println(dobby.legs);
     }
